@@ -1,0 +1,10 @@
+from kotlin.collections import Set, List
+
+@Override
+def main(lol: String, nelol: Int):
+    println("hello")
+    println(lol)
+
+
+#class Foo:
+#    hhh = "Hello"
